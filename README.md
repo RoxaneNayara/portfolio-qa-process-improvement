@@ -1,5 +1,12 @@
 # Portfólio de QA | Processos, Qualidade e Liderança
 
+![QA Leadership](https://img.shields.io/badge/QA%20Leadership-Process%20Improvement-blue)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Rastreabilidade-blue)
+![Scrum](https://img.shields.io/badge/Scrum-Agile%20Process-green)
+![TMMi](https://img.shields.io/badge/TMMi-Maturidade%20de%20Testes-purple)
+![Playwright](https://img.shields.io/badge/Playwright-Automação%20em%20Implantação-brightgreen)
+![Quality Culture](https://img.shields.io/badge/Cultura%20de%20Qualidade-Shift--Left-orange)
+
 Olá! Sou Roxane Nayara, Coordenadora de QA, com experiência na estruturação de processos de qualidade de software, implantação de práticas de QA, evolução de maturidade de testes, governança, documentação, métricas, Azure DevOps, cultura de qualidade e liderança de time.
 
 Este portfólio reúne cases e iniciativas desenvolvidas desde 2023, demonstrando minha evolução profissional desde a atuação inicial como QA Trainee até a coordenação de um time de QA.
@@ -66,6 +73,26 @@ Transformei um cenário sem QA estruturado em uma área com processos, rastreabi
 - Apoio à evolução da automação de testes com Playwright;
 - Criação de webinar interno para compartilhamento de conhecimento;
 - Consolidação de práticas de qualidade, rastreabilidade, governança e melhoria contínua.
+
+---
+
+## Principais entregas
+
+- Estruturação inicial da área de QA a partir de um diagnóstico AS-IS;
+- Implantação de processos de qualidade em produtos Web e Desktop;
+- Criação de fluxo de QA dentro das Sprints e cerimônias ágeis;
+- Evolução da documentação de testes para o Azure DevOps;
+- Implementação de evidências em vídeo e rastreabilidade de validações;
+- Criação de Definition of Done com critérios de qualidade;
+- Criação de Matriz RACI para QA e desenvolvimento;
+- Estudos de aderência ao TMMi e início da estruturação do Nível 2;
+- Criação de política, estratégia e planejamento de testes;
+- Participação em POC para escolha do Playwright como ferramenta de automação;
+- Criação de onboarding para novos colaboradores de QA;
+- Criação de checklist de boas práticas de qualidade;
+- Disseminação da cultura de qualidade para o time de TI;
+- Participação em processos seletivos técnicos e formação do time de QA;
+- Criação de webinar interno para compartilhamento de conhecimento.
 
 ---
 
