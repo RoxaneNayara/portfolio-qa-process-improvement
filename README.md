@@ -6,6 +6,24 @@ Este portfólio reúne cases e iniciativas desenvolvidas desde 2023, demonstrand
 
 ---
 
+## Em uma frase
+
+Transformei um cenário sem QA estruturado em uma área com processos, rastreabilidade, governança, cultura de qualidade e liderança de time.
+
+---
+
+## Destaques da trajetória
+
+- Estruturei processos de QA desde o diagnóstico inicial até a consolidação de práticas no fluxo ágil;
+- Implantei documentação, evidências, métricas e rastreabilidade no Azure DevOps;
+- Contribuí para a criação de DoD, Matriz RACI, checklist de boas práticas e onboarding de QA;
+- Realizei estudos de TMMi e iniciei práticas relacionadas ao Nível 2;
+- Participei da POC de automação com Playwright e C#;
+- Atuei na disseminação da cultura de qualidade para o time de TI;
+- Passei a atuar como liderança, apoiando processos seletivos, entrevistas técnicas e formação do time.
+
+---
+
 ## Sobre minha atuação
 
 Minha trajetória em Qualidade de Software foi construída em um cenário de transformação.
