@@ -63,69 +63,18 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qual
 
 ## Cases do portfólio
 
-### 1. Diagnóstico AS-IS de Testes de Software
-
-Realizei um levantamento inicial para entender a maturidade dos testes na organização, em um contexto onde ainda não existia um time formal de QA.
-
-O diagnóstico classificou práticas como realizadas, parcialmente realizadas ou não realizadas, servindo como base para priorização das primeiras iniciativas de qualidade.
-
----
-
-### 2. Implantação de Processos de QA
-
-Atuei na implantação de práticas de QA em times de produtos Web e Desktop, incluindo fluxo de QA, planejamento de testes, documentação, pair testing, cards de bugs, evidências, reuniões de refinamento e participação do QA nas cerimônias ágeis.
-
----
-
-### 3. Azure DevOps e Rastreabilidade
-
-Evoluí a documentação de testes de controles manuais em Excel para um modelo integrado ao Azure DevOps, com cards de QA, vínculos com backlogs, bugs, evidências, status, histórico e acompanhamento por todo o time.
-
----
-
-### 4. Definition of Done com Critérios de Qualidade
-
-Participei da criação e evolução do Definition of Done do time, incluindo critérios de qualidade nas etapas do processo de desenvolvimento, como evidências, roteiros de teste, code review, pull request, pair testing, reteste de bugs e validação de critérios de aceite.
-
----
-
-### 5. Governança com Matriz RACI
-
-Criei matrizes RACI para definir papéis e responsabilidades no processo de QA e desenvolvimento, trazendo clareza sobre responsáveis, aprovadores, consultados e informados em cada etapa do fluxo.
-
----
-
-### 6. Estudos de TMMi e Maturidade de Testes
-
-Realizei estudo de aderência ao TMMi, identificando o nível de maturidade mais próximo da organização e iniciando a estruturação de práticas relacionadas ao Nível 2, como política de testes, estratégia de testes e planejamento de testes.
-
----
-
-### 7. POC de Automação com Playwright
-
-Participei da POC para escolha da ferramenta de automação de testes, comparando alternativas compatíveis com C#.
-
-O Playwright foi escolhido por atender testes de API e Web, além de possuir aderência ao ecossistema técnico da empresa.
-
-Minha atuação nessa frente foi principalmente voltada à estruturação do processo, documentação e análise de aderência. Para os pontos técnicos mais especializados de automação, contei com apoio do Engenheiro de Qualidade.
-
----
-
-### 8. Onboarding e Capacitação de QA
-
-Estruturei e conduzi onboarding para novos colaboradores de QA, apresentando cultura de qualidade, processos, fluxo de trabalho, Azure DevOps, documentação, bugs, evidências, testes e práticas utilizadas pelo time.
-
----
-
-### 9. Cultura de Qualidade e Compartilhamento de Conhecimento
-
-Criei iniciativas para disseminação da cultura de qualidade, incluindo reuniões com o time de TI, materiais de apoio, checklist de boas práticas e webinar interno para compartilhamento de conhecimento.
-
----
-
-### 10. Liderança e Processo Seletivo
-
-Passei a atuar no processo seletivo de QA, avaliando currículos, conduzindo entrevistas técnicas e criando questionários para apoiar a contratação de novos analistas.
+| Case | Tema | Foco principal |
+|------|------|----------------|
+| [Case 01](./01-as-is-maturidade-qa) | Diagnóstico AS-IS de Testes de Software | Mapeamento de maturidade, levantamento inicial e identificação de lacunas |
+| [Case 02](./02-implantacao-processos-qa) | Implantação de Processos de QA | Estruturação de fluxo, cerimônias, documentação, bugs e pair testing |
+| [Case 03](./03-azure-devops-rastreabilidade) | Azure DevOps e Rastreabilidade | Evolução de controles em Excel para um fluxo integrado e rastreável |
+| [Case 04](./04-definition-of-done-qualidade) | Definition of Done com Critérios de Qualidade | Inclusão de práticas de QA nos critérios de conclusão das entregas |
+| [Case 05](./05-matriz-raci-governanca) | Governança com Matriz RACI | Clareza de papéis, responsabilidades, aprovações e comunicação |
+| [Case 06](./06-tmmi-maturidade-testes) | Estudos de TMMi e Maturidade de Testes | Avaliação de maturidade e estruturação de política, estratégia e planejamento |
+| [Case 07](./07-poc-automacao-playwright) | POC de Automação com Playwright | Estudo de ferramenta, aderência técnica e início da automação |
+| [Case 08](./08-onboarding-capacitacao-qa) | Onboarding e Capacitação de QA | Integração de novos colaboradores e padronização do conhecimento |
+| [Case 09](./09-cultura-qualidade-conhecimento) | Cultura de Qualidade e Conhecimento | Disseminação de boas práticas, checklist e webinar interno |
+| [Case 10](./10-lideranca-processo-seletivo-qa) | Liderança e Processo Seletivo de QA | Avaliação técnica, entrevistas, questionário e formação de time |
 
 ---
 
