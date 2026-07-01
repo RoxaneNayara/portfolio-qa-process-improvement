@@ -33,6 +33,42 @@ Transformei um cenário sem QA estruturado em uma área com processos, rastreabi
 
 ---
 
+## Linha do tempo da evolução
+
+### 2023 — Diagnóstico e início da estruturação
+
+- Início da atuação em QA em um cenário sem time formal estruturado;
+- Realização do diagnóstico AS-IS de maturidade em testes;
+- Levantamento de práticas existentes, parciais e inexistentes;
+- Início da implantação de processos de QA;
+- Participação na estruturação de fluxo ágil com Scrum e Kanban;
+- Evolução da documentação e evidências de testes.
+
+### 2024 — Padronização, governança e maturidade
+
+- Expansão dos processos de QA para produtos Web e Desktop;
+- Criação e evolução de práticas de planejamento, documentação e evidência;
+- Estruturação de atividades de QA no Azure DevOps;
+- Participação na criação do Definition of Done com critérios de qualidade;
+- Criação de Matriz RACI para QA e desenvolvimento;
+- Estudos de TMMi e identificação de aderência inicial ao Nível 2;
+- Criação de política, estratégia e planejamento de testes;
+- POC para escolha da ferramenta de automação de testes;
+- Criação de checklist de boas práticas de qualidade de software.
+
+### 2025/2026 — Liderança, cultura e consolidação
+
+- Atuação como Coordenadora de QA;
+- Condução de onboarding para novos colaboradores de QA;
+- Disseminação da cultura de qualidade para o time de TI;
+- Participação em processos seletivos técnicos;
+- Criação de questionário para avaliação de candidatos;
+- Apoio à evolução da automação de testes com Playwright;
+- Criação de webinar interno para compartilhamento de conhecimento;
+- Consolidação de práticas de qualidade, rastreabilidade, governança e melhoria contínua.
+
+---
+
 ## Sobre minha atuação
 
 Minha trajetória em Qualidade de Software foi construída em um cenário de transformação.
