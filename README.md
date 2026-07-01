@@ -24,6 +24,15 @@ Transformei um cenário sem QA estruturado em uma área com processos, rastreabi
 
 ---
 
+## Navegação rápida
+
+- [Cases do portfólio](#cases-do-portfólio)
+- [Competências demonstradas](#competências-demonstradas)
+- [Tecnologias, ferramentas e referências](#tecnologias-ferramentas-e-referências)
+- [Observação sobre confidencialidade](#observação-sobre-confidencialidade)
+
+---
+
 ## Sobre minha atuação
 
 Minha trajetória em Qualidade de Software foi construída em um cenário de transformação.
