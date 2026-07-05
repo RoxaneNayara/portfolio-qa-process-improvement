@@ -87,6 +87,18 @@ A evolução para o Azure DevOps trouxe ganhos importantes, como:
 
 ---
 
+## Evidência visual adaptada
+
+A imagem abaixo representa, de forma anonimizada, a evolução da documentação de testes para dentro do Azure DevOps.
+
+O card de QA passou a concentrar informações importantes para o acompanhamento das validações, como histórico da atividade, resultado esperado, estratégia de teste, prontidão para testes, pré-requisitos, esforço, status, vínculos com itens relacionados e rastreabilidade com o desenvolvimento.
+
+![Atividade de QA no Azure DevOps anonimizada](./assets/atividade-qa-azure-anonimizada.png)
+
+Essa estrutura ajudou a transformar a documentação de testes em uma fonte única de acompanhamento, reduzindo controles paralelos e aumentando a transparência do processo para todo o time.
+
+---
+
 ## Competências demonstradas
 
 - Azure DevOps;
