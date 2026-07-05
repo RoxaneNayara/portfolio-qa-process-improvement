@@ -103,6 +103,14 @@ A evolução para o Azure DevOps trouxe ganhos importantes, como:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que a documentação de testes ganha muito mais valor quando está conectada ao fluxo oficial de trabalho do time.
+
+Esse case mostrou que rastreabilidade não é apenas registrar informações, mas permitir que QA, Desenvolvimento, Produto e Gestão acompanhem o histórico, o status, as evidências e os resultados das validações em um único lugar.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
