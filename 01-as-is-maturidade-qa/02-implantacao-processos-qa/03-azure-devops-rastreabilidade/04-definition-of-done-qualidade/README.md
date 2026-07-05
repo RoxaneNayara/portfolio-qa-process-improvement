@@ -92,6 +92,13 @@ A criação do Definition of Done com critérios de qualidade contribuiu para:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que qualidade precisa estar explícita nos critérios de conclusão do time, e não depender apenas de entendimento informal.
+
+Esse case reforçou que um bom Definition of Done ajuda a alinhar expectativas, reduzir ambiguidades e tornar a responsabilidade pela qualidade mais compartilhada entre QA, Desenvolvimento e Produto.
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
