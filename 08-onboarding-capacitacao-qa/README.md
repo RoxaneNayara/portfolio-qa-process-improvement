@@ -87,6 +87,18 @@ A criação e condução do onboarding contribuiu para:
 
 ---
 
+## Evidência visual adaptada
+
+A imagem abaixo representa, de forma simplificada e anonimizada, a estrutura do onboarding criado para apoiar a entrada de novos colaboradores no time de QA.
+
+O material apresentava a cultura de qualidade, o papel do QA no ciclo de vida do software, metodologias ágeis, cerimônias, fluxo de atuação dentro dos times, práticas de testes, documentação no Azure DevOps e report de incidentes.
+
+![Onboarding de QA anonimizado](assets/onboarding-qa-anonimizado.png)
+
+Essa iniciativa ajudou a transformar conhecimento interno em um material reutilizável, reduzindo a curva de adaptação de novos colaboradores e fortalecendo a padronização da atuação do time de QA.
+
+---
+
 ## Competências demonstradas
 
 - Onboarding;
