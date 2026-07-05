@@ -1,5 +1,16 @@
 # Case 04 — Definition of Done com Critérios de Qualidade
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024 |
+| **Papel** | QA / Apoio à liderança de processo |
+| **Contexto** | Necessidade de definir critérios claros para considerar uma entrega concluída |
+| **Objetivo** | Incluir práticas de qualidade no Definition of Done do time |
+| **Principal entrega** | DoD com critérios de evidência, testes, documentação, code review, pair testing e aceite |
+| **Impacto** | Qualidade passou a fazer parte dos critérios oficiais de conclusão das entregas |
+
 ## Contexto
 
 Com a evolução do processo de QA e do fluxo ágil dos times, surgiu a necessidade de deixar mais claro quais critérios deveriam ser cumpridos para que uma entrega fosse considerada concluída.
