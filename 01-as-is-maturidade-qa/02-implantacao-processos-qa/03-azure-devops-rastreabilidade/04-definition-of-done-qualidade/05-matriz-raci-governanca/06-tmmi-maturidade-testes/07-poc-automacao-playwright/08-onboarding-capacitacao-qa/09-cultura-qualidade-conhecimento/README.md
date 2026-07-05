@@ -4,7 +4,7 @@
 
 | Item | Descrição |
 |------|-----------|
-| **Período** | 2024–2025 |
+| **Período** | 2024–atual |
 | **Papel** | QA / Coordenadora de QA |
 | **Contexto** | Necessidade de disseminar a cultura de qualidade para todo o time de TI |
 | **Objetivo** | Compartilhar boas práticas, alinhar processos e criar espaços de troca de conhecimento |
