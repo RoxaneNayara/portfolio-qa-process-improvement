@@ -129,6 +129,14 @@ Essa iniciativa contribuiu para:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que a escolha de uma ferramenta de automação precisa considerar não apenas a tecnologia em si, mas também o contexto do time, a linguagem utilizada, a curva de aprendizado, a manutenção futura e a possibilidade de evolução.
+
+Esse case também reforçou a importância de reconhecer limites técnicos e atuar de forma colaborativa com especialistas, garantindo que decisões importantes sejam apoiadas por conhecimento adequado e alinhadas à realidade da empresa.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
