@@ -107,6 +107,3 @@ Este case foi adaptado e anonimizado para fins de portfólio profissional, prese
 ---
 
 [⬅ Voltar ao início do portfólio](../README.md)
-
-
-
