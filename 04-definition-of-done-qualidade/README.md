@@ -94,7 +94,7 @@ Entre os critérios incorporados ao fluxo estavam:
 - critérios de aceite avaliados e aceitos;
 - smoke tests em homologação.
 
-![Definition of Done com critérios de qualidade](./assets/dod-criterios-qualidade-anonimizado.png)
+![Definition of Done com critérios de qualidade](04-definition-of-done-qualidade/asserts/dod-criterios-qualidade-anonimizado.png)
 
 A estruturação do Definition of Done por etapas do board ajudou a distribuir a responsabilidade pela qualidade ao longo do fluxo, tornando mais claros os critérios esperados desde a preparação do backlog até a homologação.
 
