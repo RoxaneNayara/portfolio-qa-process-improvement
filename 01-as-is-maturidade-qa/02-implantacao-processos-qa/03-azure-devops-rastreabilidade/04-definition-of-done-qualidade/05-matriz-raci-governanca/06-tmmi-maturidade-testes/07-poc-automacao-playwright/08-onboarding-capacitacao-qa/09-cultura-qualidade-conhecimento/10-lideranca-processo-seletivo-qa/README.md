@@ -107,3 +107,7 @@ A participação no processo seletivo contribuiu para:
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
+
+---
+
+[⬅ Voltar ao início do portfólio](../README.md)
