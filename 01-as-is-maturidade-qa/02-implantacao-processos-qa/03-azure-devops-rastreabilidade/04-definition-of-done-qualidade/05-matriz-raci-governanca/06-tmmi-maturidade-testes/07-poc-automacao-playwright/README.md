@@ -1,5 +1,16 @@
 # Case 07 — POC de Automação com Playwright
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024 |
+| **Papel** | QA / Apoio à estruturação de automação |
+| **Contexto** | Necessidade de escolher uma ferramenta para iniciar a automação de testes |
+| **Objetivo** | Avaliar ferramentas compatíveis com C# e aderentes ao contexto técnico da empresa |
+| **Principal entrega** | POC comparando RestSharp e Playwright, com escolha do Playwright |
+| **Impacto** | Definição de ferramenta com potencial para testes de API, Web e evolução futura da automação |
+
 ## Contexto
 
 A partir do diagnóstico AS-IS e da evolução dos processos de QA, foi identificada a necessidade de iniciar estudos para implantação de automação de testes.
