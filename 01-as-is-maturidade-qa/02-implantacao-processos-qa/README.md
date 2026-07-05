@@ -1,5 +1,16 @@
 # Case 02 — Implantação de Processos de QA
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2023–2024 |
+| **Papel** | QA / Evolução para liderança de QA |
+| **Contexto** | Times Web e Desktop com processos de QA em estruturação |
+| **Objetivo** | Implantar práticas de QA dentro do fluxo de desenvolvimento |
+| **Principal entrega** | Estruturação do fluxo de QA, cerimônias, documentação, bugs e pair testing |
+| **Impacto** | QA passou a atuar de forma mais integrada ao ciclo de desenvolvimento |
+
 ## Contexto
 
 Após o diagnóstico inicial de maturidade em testes, foi necessário iniciar a implantação de processos de QA nos times de desenvolvimento.
