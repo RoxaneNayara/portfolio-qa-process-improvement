@@ -1,5 +1,16 @@
 # Case 05 — Governança com Matriz RACI
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024 |
+| **Papel** | QA / Apoio à governança de processos |
+| **Contexto** | Necessidade de clareza sobre papéis e responsabilidades no fluxo de QA e desenvolvimento |
+| **Objetivo** | Definir responsáveis, aprovadores, consultados e informados em cada etapa do processo |
+| **Principal entrega** | Matriz RACI para QA e desenvolvimento |
+| **Impacto** | Maior clareza de responsabilidades, comunicação entre áreas e governança do processo |
+
 ## Contexto
 
 Com a evolução dos processos de QA e desenvolvimento, surgiu a necessidade de deixar mais claro o papel de cada pessoa e área dentro do fluxo de trabalho.
