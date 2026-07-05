@@ -87,11 +87,17 @@ A partir dele, foi possível priorizar iniciativas como:
 
 ---
 
-## Evidência visual adaptada
+## Evidências visuais adaptadas
 
-A imagem abaixo representa, de forma anonimizada, o diagnóstico AS-IS utilizado para mapear a maturidade inicial das práticas de teste.
+As imagens abaixo representam, de forma anonimizada, o diagnóstico AS-IS utilizado para mapear a maturidade inicial das práticas de teste e a evolução observada após a implantação de processos de QA.
 
-![Diagnóstico AS-IS anonimizado](./assets/as-is-2023-anonimizado.png)
+### Diagnóstico inicial — 2023
+
+![Diagnóstico AS-IS 2023 anonimizado](./assets/as-is-2023-anonimizado.png)
+
+### Evolução da maturidade — estado atual
+
+![Evolução AS-IS atual anonimizada](./assets/as-is-atual-anonimizado.png)
 
 ---
 
