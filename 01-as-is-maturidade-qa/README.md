@@ -87,6 +87,14 @@ A partir dele, foi possível priorizar iniciativas como:
 
 ---
 
+## Evidência visual adaptada
+
+A imagem abaixo representa, de forma anonimizada, o diagnóstico AS-IS utilizado para mapear a maturidade inicial das práticas de teste.
+
+![Diagnóstico AS-IS anonimizado](./assets/as-is-2023-anonimizado.png)
+
+---
+
 ## Competências demonstradas
 
 - Diagnóstico de processo;
