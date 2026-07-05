@@ -134,3 +134,7 @@ Essa iniciativa contribuiu para:
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
 
 Minha principal especialidade está em processos de QA, estratégia de qualidade, governança, documentação, liderança e melhoria contínua. Na frente de automação, atuei de forma colaborativa, com apoio técnico especializado para decisões mais profundas sobre implementação.
+
+---
+
+[⬅ Voltar ao início do portfólio](../README.md)
