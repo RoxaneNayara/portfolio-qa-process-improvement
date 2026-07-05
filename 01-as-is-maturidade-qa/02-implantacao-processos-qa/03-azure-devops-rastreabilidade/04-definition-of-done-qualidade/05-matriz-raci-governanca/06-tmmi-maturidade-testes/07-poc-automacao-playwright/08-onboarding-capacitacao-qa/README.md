@@ -1,5 +1,16 @@
 # Case 08 — Onboarding e Capacitação de QA
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024–2025 |
+| **Papel** | QA / Liderança de QA |
+| **Contexto** | Entrada de novos colaboradores no time e necessidade de padronizar o conhecimento inicial |
+| **Objetivo** | Apresentar processos, práticas, ferramentas e cultura de qualidade para novos QAs |
+| **Principal entrega** | Onboarding estruturado do time de QA |
+| **Impacto** | Redução da curva de adaptação e maior alinhamento sobre processos, responsabilidades e fluxo de trabalho |
+
 ## Contexto
 
 Com a evolução do time de QA e a entrada de novos colaboradores, surgiu a necessidade de padronizar a forma como os processos, práticas, ferramentas e cultura de qualidade eram apresentados.
