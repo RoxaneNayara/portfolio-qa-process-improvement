@@ -4,7 +4,7 @@
 
 | Item | Descrição |
 |------|-----------|
-| **Período** | 2024–2025 |
+| **Período** | 2024–atual |
 | **Papel** | QA / Liderança de QA |
 | **Contexto** | Entrada de novos colaboradores no time e necessidade de padronizar o conhecimento inicial |
 | **Objetivo** | Apresentar processos, práticas, ferramentas e cultura de qualidade para novos QAs |
