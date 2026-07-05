@@ -112,6 +112,18 @@ Essa iniciativa contribuiu para:
 
 ---
 
+## Evidência visual adaptada
+
+A imagem abaixo representa, de forma simplificada e anonimizada, a POC realizada para escolha da ferramenta de automação de testes.
+
+A avaliação comparou alternativas compatíveis com C#, considerando aderência ao contexto técnico da equipe, possibilidade de automação de API, evolução para testes Web, integração com Azure DevOps, escalabilidade e manutenção futura.
+
+![POC Playwright anonimizada](assets/poc-playwright-anonimizada.png)
+
+A partir da análise, o Playwright foi escolhido por atender de forma mais completa às necessidades do processo, permitindo atuação em testes de API e Web UI, mantendo alinhamento com a linguagem C# e com o ecossistema de desenvolvimento utilizado pelo time.
+
+---
+
 ## Competências demonstradas
 
 - POC técnica;
