@@ -200,6 +200,16 @@ Meu foco está em transformar práticas soltas em processos claros, documentados
 
 ---
 
+## Resumo profissional
+
+Minha trajetória em QA é marcada pela construção e evolução de processos de qualidade em um ambiente de transformação.
+
+Atuei desde o diagnóstico inicial de maturidade até a implantação de práticas, documentação, rastreabilidade, governança, onboarding, cultura de qualidade e liderança de time.
+
+Hoje, como Coordenadora de QA, sigo contribuindo para que qualidade seja uma responsabilidade compartilhada, presente desde o início do ciclo de desenvolvimento e sustentada por processos claros, colaboração entre áreas e melhoria contínua.
+
+---
+
 ## Observação sobre confidencialidade
 
 Por confidencialidade, os materiais apresentados neste portfólio foram adaptados, anonimizados ou recriados com base em experiências reais, preservando informações sensíveis da organização, colaboradores, sistemas, clientes e processos internos.
