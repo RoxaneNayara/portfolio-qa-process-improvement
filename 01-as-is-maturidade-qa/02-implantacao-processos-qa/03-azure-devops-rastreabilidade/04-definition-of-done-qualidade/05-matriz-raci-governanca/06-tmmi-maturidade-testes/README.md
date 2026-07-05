@@ -1,5 +1,16 @@
 # Case 06 — Estudos de TMMi e Maturidade de Testes
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024 |
+| **Papel** | QA / Evolução para liderança de QA |
+| **Contexto** | Necessidade de avaliar a maturidade dos processos de teste da organização |
+| **Objetivo** | Estudar o TMMi, identificar o nível inicial de aderência e estruturar práticas do Nível 2 |
+| **Principal entrega** | Estudo de aderência ao TMMi, política de testes, estratégia de testes e planejamento de testes |
+| **Impacto** | Processo de QA passou a ter direcionamento mais estruturado, documentado e alinhado à maturidade de testes |
+
 ## Contexto
 
 Com a evolução da área de QA, surgiu a necessidade de avaliar a maturidade dos processos de testes e entender quais práticas poderiam ser adotadas para fortalecer a qualidade de software de forma mais estruturada.
