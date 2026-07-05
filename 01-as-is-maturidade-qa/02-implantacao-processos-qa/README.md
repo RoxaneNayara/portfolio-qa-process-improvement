@@ -102,6 +102,14 @@ Essa evolução contribuiu para maior colaboração entre áreas, melhor rastrea
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que implantar QA não é apenas criar etapas de teste, mas inserir a qualidade dentro do fluxo real do time.
+
+Esse case reforçou a importância de aproximar QA, Produto e Desenvolvimento desde o refinamento, garantindo que dúvidas, riscos e critérios de qualidade sejam discutidos antes da entrega chegar à fase final de validação.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
