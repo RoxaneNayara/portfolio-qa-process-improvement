@@ -19,6 +19,22 @@ Transformei um cenário sem QA estruturado em uma área com processos, rastreabi
 
 ---
 
+## Como este portfólio está organizado
+
+Este portfólio foi estruturado em formato de cases profissionais. Cada case apresenta:
+
+- Contexto;
+- Desafio;
+- Ação realizada;
+- Resultado;
+- Competências demonstradas;
+- Aprendizados;
+- Observação de confidencialidade.
+
+A proposta é demonstrar não apenas as entregas realizadas, mas também a evolução da minha atuação em QA, liderança, processos, governança e cultura de qualidade.
+
+---
+
 ## Destaques da trajetória
 
 - Estruturei processos de QA desde o diagnóstico inicial até a consolidação de práticas no fluxo ágil;
@@ -148,22 +164,6 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qual
 - Capacitação e onboarding;
 - Apoio em seleção técnica;
 - Comunicação com Produto, Desenvolvimento e Gestão.
-
----
-
-## Como este portfólio está organizado
-
-Este portfólio foi estruturado em formato de cases profissionais. Cada case apresenta:
-
-- Contexto;
-- Desafio;
-- Ação realizada;
-- Resultado;
-- Competências demonstradas;
-- Aprendizados;
-- Observação de confidencialidade.
-
-A proposta é demonstrar não apenas as entregas realizadas, mas também a evolução da minha atuação em QA, liderança, processos, governança e cultura de qualidade.
 
 ---
 
