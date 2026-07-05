@@ -1,5 +1,16 @@
 # Case 09 — Cultura de Qualidade e Compartilhamento de Conhecimento
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024–2025 |
+| **Papel** | QA / Coordenadora de QA |
+| **Contexto** | Necessidade de disseminar a cultura de qualidade para todo o time de TI |
+| **Objetivo** | Compartilhar boas práticas, alinhar processos e criar espaços de troca de conhecimento |
+| **Principal entrega** | Reuniões de qualidade, checklist de boas práticas e webinar interno |
+| **Impacto** | Fortalecimento da cultura de qualidade, colaboração entre áreas e aprendizado contínuo |
+
 ## Contexto
 
 Com a evolução dos processos de QA, surgiu a necessidade de ampliar a cultura de qualidade para além do time de QA.
