@@ -4,7 +4,7 @@
 
 | Item | Descrição |
 |------|-----------|
-| **Período** | 2024–2025 |
+| **Período** | 2024–atual |
 | **Papel** | Coordenadora de QA |
 | **Contexto** | Crescimento do time de QA e necessidade de apoiar contratações mais alinhadas ao perfil técnico e comportamental esperado |
 | **Objetivo** | Estruturar apoio ao processo seletivo de QA por meio de avaliação curricular, entrevistas técnicas e questionário técnico |
