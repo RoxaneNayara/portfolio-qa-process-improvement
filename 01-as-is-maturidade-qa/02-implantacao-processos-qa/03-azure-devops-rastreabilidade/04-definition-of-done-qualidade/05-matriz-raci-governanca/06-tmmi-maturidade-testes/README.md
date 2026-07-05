@@ -4,7 +4,7 @@
 
 | Item | Descrição |
 |------|-----------|
-| **Período** | 2024 |
+| **Período** | 2024-atual |
 | **Papel** | QA / Evolução para liderança de QA |
 | **Contexto** | Necessidade de avaliar a maturidade dos processos de teste da organização |
 | **Objetivo** | Estudar o TMMi, identificar o nível inicial de aderência e estruturar práticas do Nível 2 |
