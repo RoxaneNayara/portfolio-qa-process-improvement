@@ -98,6 +98,12 @@ A partir dele, foi possível priorizar iniciativas como:
 - Qualidade de software;
 - Melhoria contínua.
 
+## O que aprendi com este case
+
+Aprendi que antes de propor mudanças em um processo, é essencial entender o cenário atual, ouvir as pessoas envolvidas e transformar percepções em dados organizados.
+
+Esse diagnóstico mostrou que um bom processo de QA começa com clareza: entender o que já existe, o que funciona parcialmente e quais lacunas precisam ser priorizadas.
+
 ---
 
 ## Observação
