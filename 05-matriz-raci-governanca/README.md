@@ -99,7 +99,7 @@ A imagem abaixo representa uma versão simplificada e anonimizada da Matriz RACI
 
 A matriz foi utilizada para dar mais clareza sobre papéis e responsabilidades entre Produto, Tech Lead, QA, Desenvolvimento, Gestão e Stakeholders, distribuindo quem era responsável, autoridade, consultado ou informado em cada etapa do fluxo.
 
-![Matriz RACI anonimizada](./assets/matriz-raci-governanca-anonimizada.png?raw=true)
+![Matriz RACI anonimizada](./assets/matriz-raci-governanca-anonimizada.png)
 
 Essa estrutura ajudou a transformar responsabilidades antes implícitas em um modelo visual, facilitando o alinhamento entre áreas e reduzindo ambiguidades no processo de desenvolvimento e qualidade.
 
