@@ -1,5 +1,16 @@
 # Case 01 — Diagnóstico AS-IS de Maturidade em QA
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2023 |
+| **Papel** | QA Trainee |
+| **Contexto** | Empresa sem time formal de QA estruturado |
+| **Objetivo** | Mapear a maturidade inicial das práticas de teste |
+| **Principal entrega** | Diagnóstico AS-IS de testes de software |
+| **Impacto** | Base para estruturação dos primeiros processos de QA |
+
 ## Contexto
 
 Em 2023, iniciei minha trajetória em Qualidade de Software em um cenário onde ainda não existia um time formal de QA estruturado.
