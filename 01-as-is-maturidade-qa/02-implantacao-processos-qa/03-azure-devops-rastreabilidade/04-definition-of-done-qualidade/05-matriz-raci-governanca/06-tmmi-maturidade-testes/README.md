@@ -91,6 +91,14 @@ A partir dele, foi possível iniciar a criação de documentos e práticas que a
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que maturidade em testes não acontece apenas com execução, mas com processo, estratégia, documentação, monitoramento e melhoria contínua.
+
+Esse case reforçou a importância de usar modelos de referência, como o TMMi, para entender o nível atual do processo, identificar lacunas e transformar boas práticas em ações aplicáveis à realidade do time.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
