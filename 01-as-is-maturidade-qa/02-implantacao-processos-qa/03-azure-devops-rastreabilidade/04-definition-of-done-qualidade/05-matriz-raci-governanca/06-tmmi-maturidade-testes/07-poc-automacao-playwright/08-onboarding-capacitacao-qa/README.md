@@ -104,6 +104,14 @@ A criação e condução do onboarding contribuiu para:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que onboarding não é apenas apresentar ferramentas e processos, mas ajudar a nova pessoa a entender a cultura, o propósito e a forma como o time trabalha.
+
+Esse case reforçou que um onboarding bem estruturado reduz a curva de adaptação, fortalece a padronização do time e ajuda novos colaboradores a se sentirem mais seguros para atuar dentro do fluxo de QA.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
