@@ -1,5 +1,16 @@
 # Case 03 — Azure DevOps e Rastreabilidade
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2023–2024 |
+| **Papel** | QA / Liderança de processo |
+| **Contexto** | Documentação e métricas inicialmente controladas em Excel |
+| **Objetivo** | Evoluir a rastreabilidade das atividades de QA para dentro do Azure DevOps |
+| **Principal entrega** | Cards e tasks de QA, vínculos com backlogs, bugs, evidências e status de validação |
+| **Impacto** | Maior visibilidade, centralização e acompanhamento das validações por todo o time |
+
 ## Contexto
 
 Com a evolução do processo de QA, surgiu a necessidade de tornar a documentação, o acompanhamento dos testes, os bugs, as evidências e as métricas mais visíveis e rastreáveis para todo o time.
