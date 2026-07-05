@@ -150,20 +150,21 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qual
 - Comunicação com Produto, Desenvolvimento e Gestão.
 
 ---
+
 ## Cases do portfólio
 
 | Case | Tema | Foco principal |
 |------|------|----------------|
-| [Case 01](./01-as-is-maturidade-qa/README.md) | Diagnóstico AS-IS de Testes de Software | Mapeamento de maturidade, levantamento inicial e identificação de lacunas |
-| [Case 02](./02-implantacao-processos-qa/README.md) | Implantação de Processos de QA | Estruturação de fluxo, cerimônias, documentação, bugs e pair testing |
-| [Case 03](./03-azure-devops-rastreabilidade/README.md) | Azure DevOps e Rastreabilidade | Evolução de controles em Excel para um fluxo integrado e rastreável |
-| [Case 04](./04-definition-of-done-qualidade/README.md) | Definition of Done com Critérios de Qualidade | Inclusão de práticas de QA nos critérios de conclusão das entregas |
-| [Case 05](./05-matriz-raci-governanca/README.md) | Governança com Matriz RACI | Clareza de papéis, responsabilidades, aprovações e comunicação |
-| [Case 06](./06-tmmi-maturidade-testes/README.md) | Estudos de TMMi e Maturidade de Testes | Avaliação de maturidade e estruturação de política, estratégia e planejamento |
-| [Case 07](./07-poc-automacao-playwright/README.md) | POC de Automação com Playwright | Estudo de ferramenta, aderência técnica e início da automação |
-| [Case 08](./08-onboarding-capacitacao-qa/README.md) | Onboarding e Capacitação de QA | Integração de novos colaboradores e padronização do conhecimento |
-| [Case 09](./09-cultura-qualidade-conhecimento/README.md) | Cultura de Qualidade e Conhecimento | Disseminação de boas práticas, checklist e webinar interno |
-| [Case 10](./10-lideranca-processo-seletivo-qa/README.md) | Liderança e Processo Seletivo de QA | Avaliação técnica, entrevistas, questionário e formação de time |
+| [Case 01](01-as-is-maturidade-qa) | Diagnóstico AS-IS de Testes de Software | Mapeamento de maturidade, levantamento inicial e identificação de lacunas |
+| [Case 02](02-implantacao-processos-qa) | Implantação de Processos de QA | Estruturação de fluxo, cerimônias, documentação, bugs e pair testing |
+| [Case 03](03-azure-devops-rastreabilidade) | Azure DevOps e Rastreabilidade | Evolução de controles em Excel para um fluxo integrado e rastreável |
+| [Case 04](04-definition-of-done-qualidade) | Definition of Done com Critérios de Qualidade | Inclusão de práticas de QA nos critérios de conclusão das entregas |
+| [Case 05](05-matriz-raci-governanca) | Governança com Matriz RACI | Clareza de papéis, responsabilidades, aprovações e comunicação |
+| [Case 06](06-tmmi-maturidade-testes) | Estudos de TMMi e Maturidade de Testes | Avaliação de maturidade e estruturação de política, estratégia e planejamento |
+| [Case 07](07-poc-automacao-playwright) | POC de Automação com Playwright | Estudo de ferramenta, aderência técnica e início da automação |
+| [Case 08](08-onboarding-capacitacao-qa) | Onboarding e Capacitação de QA | Integração de novos colaboradores e padronização do conhecimento |
+| [Case 09](09-cultura-qualidade-conhecimento) | Cultura de Qualidade e Conhecimento | Disseminação de boas práticas, checklist e webinar interno |
+| [Case 10](10-lideranca-processo-seletivo-qa) | Liderança e Processo Seletivo de QA | Avaliação técnica, entrevistas, questionário e formação de time |
 
 ---
 
