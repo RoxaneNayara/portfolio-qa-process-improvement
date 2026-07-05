@@ -95,6 +95,18 @@ Essas iniciativas contribuíram para:
 
 ---
 
+## Evidência visual adaptada
+
+A imagem abaixo representa, de forma simplificada e anonimizada, a iniciativa de webinar interno criada para incentivar o compartilhamento de conhecimento entre os times de TI.
+
+A proposta do “Papo em Produção” era criar um espaço de troca sobre práticas, aprendizados, experiências e temas relevantes para o fortalecimento da cultura de qualidade e da colaboração entre áreas.
+
+![Webinar interno de compartilhamento de conhecimento](assets/papo-em-producao-anonimizado.png)
+
+Essa iniciativa contribuiu para ampliar a circulação de conhecimento, fortalecer a integração entre áreas e incentivar uma cultura de aprendizado contínuo dentro da equipe.
+
+---
+
 ## Competências demonstradas
 
 - Cultura de qualidade;
