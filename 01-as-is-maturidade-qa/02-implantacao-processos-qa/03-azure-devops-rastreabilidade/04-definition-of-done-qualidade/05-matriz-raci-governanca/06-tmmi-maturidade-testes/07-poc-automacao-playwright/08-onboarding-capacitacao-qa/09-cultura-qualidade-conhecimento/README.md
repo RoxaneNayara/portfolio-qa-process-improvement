@@ -112,6 +112,14 @@ Essas iniciativas contribuíram para:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que cultura de qualidade não se fortalece apenas com documentos ou processos, mas com comunicação constante, espaços de troca e participação de todo o time de TI.
+
+Esse case reforçou que compartilhar conhecimento, explicar o porquê das práticas e aproximar áreas diferentes ajuda a transformar qualidade em uma responsabilidade coletiva.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
