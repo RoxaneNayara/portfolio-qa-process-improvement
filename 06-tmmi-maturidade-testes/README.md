@@ -81,7 +81,7 @@ A imagem abaixo representa, de forma simplificada e anonimizada, o estudo de ade
 
 A partir desse estudo, foram priorizadas práticas relacionadas à estruturação de política de testes, estratégia de testes, planejamento de testes, monitoramento e controle, além da gestão de ambiente de testes.
 
-![TMMi Nível 2 Gerenciado](asserts/tmmi-nivel-2-gerenciado.png)
+![TMMi Nível 2 Gerenciado](assets/tmmi-nivel-2-gerenciado.png)
 
 Essa análise ajudou a direcionar a evolução do processo de QA, transformando lacunas identificadas no estudo em ações práticas para tornar os testes mais planejados, documentados, monitorados e alinhados à melhoria contínua.
 
