@@ -1,5 +1,16 @@
 # Case 10 — Liderança e Processo Seletivo de QA
 
+## Resumo executivo
+
+| Item | Descrição |
+|------|-----------|
+| **Período** | 2024–2025 |
+| **Papel** | Coordenadora de QA |
+| **Contexto** | Crescimento do time de QA e necessidade de apoiar contratações mais alinhadas ao perfil técnico e comportamental esperado |
+| **Objetivo** | Estruturar apoio ao processo seletivo de QA por meio de avaliação curricular, entrevistas técnicas e questionário técnico |
+| **Principal entrega** | Participação em processos seletivos e criação de questionário para avaliação de candidatos |
+| **Impacto** | Maior padronização na avaliação técnica, fortalecimento da formação do time e evolução da atuação como liderança |
+
 ## Contexto
 
 Com a evolução da área de QA e o crescimento do time, minha atuação passou a envolver também responsabilidades relacionadas à liderança, formação de equipe e apoio na contratação de novos profissionais.
