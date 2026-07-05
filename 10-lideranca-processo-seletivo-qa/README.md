@@ -87,6 +87,18 @@ A participação no processo seletivo contribuiu para:
 
 ---
 
+## Evidência visual adaptada
+
+A imagem abaixo representa, de forma simplificada e anonimizada, o questionário técnico criado para apoiar a avaliação de candidatos no processo seletivo de QA.
+
+O questionário foi utilizado para avaliar conhecimentos técnicos, visão de qualidade, entendimento sobre metodologias ágeis, participação do QA nas cerimônias Scrum, registro de bugs, critérios de aceite, evidências, pair testing e prevenção de falhas.
+
+![Questionário técnico de QA anonimizado](assets/questionario-tecnico-qa-anonimizado.png)
+
+Essa iniciativa ajudou a tornar a avaliação dos candidatos mais estruturada, permitindo analisar não apenas conhecimentos técnicos, mas também a maturidade do profissional em relação à qualidade, colaboração e atuação em times ágeis.
+
+---
+
 ## Competências demonstradas
 
 - Liderança em QA;
