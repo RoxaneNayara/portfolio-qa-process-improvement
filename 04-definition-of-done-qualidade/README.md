@@ -77,6 +77,29 @@ A criação do Definition of Done com critérios de qualidade contribuiu para:
 
 ---
 
+## Evidência visual adaptada
+
+O Definition of Done do time foi estruturado por etapas do fluxo, com critérios específicos em cada coluna do board.
+
+Minha contribuição esteve relacionada à inclusão e consolidação de critérios de qualidade dentro dessas etapas, garantindo que o processo contemplasse não apenas desenvolvimento, mas também preparação para testes, execução de validações, rastreabilidade, correção de bugs, revisão e homologação.
+
+Entre os critérios incorporados ao fluxo estavam:
+
+- pré-requisitos para testes;
+- dados e insumos para testes;
+- evidências de teste e roteiro do desenvolvedor;
+- code review, pull request e pair testing;
+- atividades de QA realizadas;
+- bugs corrigidos e testados;
+- critérios de aceite avaliados e aceitos;
+- smoke tests em homologação.
+
+![Definition of Done com critérios de qualidade](./assets/dod-criterios-qualidade-anonimizado.png)
+
+A estruturação do Definition of Done por etapas do board ajudou a distribuir a responsabilidade pela qualidade ao longo do fluxo, tornando mais claros os critérios esperados desde a preparação do backlog até a homologação.
+
+---
+
 ## Competências demonstradas
 
 - Definition of Done;
