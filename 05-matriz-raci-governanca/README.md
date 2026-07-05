@@ -103,8 +103,6 @@ A matriz foi utilizada para dar mais clareza sobre papéis e responsabilidades e
 
 Essa estrutura ajudou a transformar responsabilidades antes implícitas em um modelo visual, facilitando o alinhamento entre áreas e reduzindo ambiguidades no processo de desenvolvimento e qualidade.
 
-Essa estrutura ajudou a transformar responsabilidades antes implícitas em um modelo visual, facilitando o alinhamento entre áreas e reduzindo ambiguidades no processo de desenvolvimento e qualidade.
-
 ---
 
 ## Competências demonstradas
