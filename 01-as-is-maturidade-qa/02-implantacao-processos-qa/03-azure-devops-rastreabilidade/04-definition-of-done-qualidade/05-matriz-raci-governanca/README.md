@@ -108,6 +108,14 @@ A criação da Matriz RACI contribuiu para:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que processos bem definidos precisam de papéis e responsabilidades claros para funcionarem de forma sustentável.
+
+Esse case reforçou que a Matriz RACI ajuda a reduzir dúvidas, melhorar a comunicação entre áreas e dar mais transparência sobre quem executa, aprova, consulta e acompanha cada etapa do fluxo.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
