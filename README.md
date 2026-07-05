@@ -151,6 +151,22 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qual
 
 ---
 
+## Como este portfólio está organizado
+
+Este portfólio foi estruturado em formato de cases profissionais. Cada case apresenta:
+
+- Contexto;
+- Desafio;
+- Ação realizada;
+- Resultado;
+- Competências demonstradas;
+- Aprendizados;
+- Observação de confidencialidade.
+
+A proposta é demonstrar não apenas as entregas realizadas, mas também a evolução da minha atuação em QA, liderança, processos, governança e cultura de qualidade.
+
+---
+
 ## Cases do portfólio
 
 | Case | Tema | Foco principal |
