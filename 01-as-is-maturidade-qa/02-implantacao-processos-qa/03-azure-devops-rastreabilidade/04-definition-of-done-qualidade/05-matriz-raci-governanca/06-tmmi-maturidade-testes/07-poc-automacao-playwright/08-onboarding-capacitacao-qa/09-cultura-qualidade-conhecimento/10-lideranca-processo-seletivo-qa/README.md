@@ -104,6 +104,14 @@ A participação no processo seletivo contribuiu para:
 
 ---
 
+## O que aprendi com este case
+
+Aprendi que liderar um time também envolve participar da construção da equipe, ajudando a identificar pessoas alinhadas ao perfil técnico, comportamental e cultural esperado.
+
+Esse case reforçou que um processo seletivo bem estruturado contribui para formar um time mais preparado, conectado às práticas de qualidade e aderente à forma de trabalho da área.
+
+---
+
 ## Observação
 
 Este case foi adaptado e anonimizado para fins de portfólio profissional, preservando informações sensíveis da organização.
