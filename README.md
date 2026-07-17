@@ -9,7 +9,14 @@
 
 Olá! Sou Roxane Nayara, Coordenadora de QA, com experiência na estruturação de processos de qualidade de software, implantação de práticas de QA, evolução de maturidade de testes, governança, documentação, métricas, Azure DevOps, cultura de qualidade e liderança de time.
 
-Este portfólio reúne cases e iniciativas desenvolvidas desde 2023, demonstrando minha evolução profissional desde a atuação inicial como QA Trainee até a coordenação de um time de QA.
+Este repositório reúne cases relacionados à minha atuação em Qualidade de Software, com foco em estruturação de processos, governança, rastreabilidade,
+maturidade, automação, liderança, gestão de fluxo e aplicação de inteligência artificial em QA.
+
+Os cases apresentam diagnósticos, propostas, práticas implementadas ou em evolução, aprendizados e evidências produzidas ao longo da minha trajetória
+profissional.
+
+> Informações confidenciais, dados internos, nomes de clientes e conteúdos
+> proprietários foram omitidos ou adaptados.
 
 ---
 
@@ -19,19 +26,30 @@ Transformei um cenário sem QA estruturado em uma área com processos, rastreabi
 
 ---
 
+---
+
 ## Como este portfólio está organizado
 
-Este portfólio foi estruturado em formato de cases profissionais. Cada case apresenta:
+Este portfólio foi estruturado em formato de cases profissionais. Cada case apresenta, conforme a natureza e o estágio da iniciativa:
 
-- Contexto;
-- Desafio;
-- Ação realizada;
-- Resultado;
-- Competências demonstradas;
-- Aprendizados;
-- Observação de confidencialidade.
+- contexto;
+- problema ou desafio identificado;
+- diagnóstico e evidências disponíveis;
+- abordagem adotada;
+- ações realizadas ou propostas;
+- resultados observados, resultados esperados ou status da iniciativa;
+- competências demonstradas;
+- aprendizados;
+- próximos passos;
+- observações de confidencialidade.
 
-A proposta é demonstrar não apenas as entregas realizadas, mas também a evolução da minha atuação em QA, liderança, processos, governança e cultura de qualidade.
+A proposta é demonstrar não apenas as entregas realizadas, mas também o raciocínio aplicado à análise dos problemas, os critérios utilizados nas decisões e a evolução da minha atuação em Qualidade de Software, liderança, processos, governança, gestão de fluxo, cultura de qualidade e inteligência artificial aplicada a QA.
+
+---
+
+## Em uma frase
+
+Transformei um cenário sem QA estruturado em uma área orientada por processos, rastreabilidade, governança, liderança, gestão de fluxo, cultura de qualidade e melhoria contínua, incorporando também inteligência artificial como apoio à análise e à tomada de decisão.
 
 ---
 
@@ -79,36 +97,41 @@ A proposta é demonstrar não apenas as entregas realizadas, mas também a evolu
 - POC para escolha da ferramenta de automação de testes;
 - Criação de checklist de boas práticas de qualidade de software.
 
-### 2025/2026 — Liderança, cultura e consolidação
+### 2025/2026 — Liderança, cultura, gestão de fluxo e inovação
 
 - Atuação como Coordenadora de QA;
-- Condução de onboarding para novos colaboradores de QA;
-- Disseminação da cultura de qualidade para o time de TI;
-- Participação em processos seletivos técnicos;
-- Criação de questionário para avaliação de candidatos;
+- Coordenação e desenvolvimento do time de QA;
+- Condução de onboarding para novos colaboradores;
+- Disseminação da cultura de qualidade entre áreas de tecnologia;
+- Participação em processos seletivos técnicos e formação do time;
+- Elaboração de questionários e critérios para avaliação de candidatos;
 - Apoio à evolução da automação de testes com Playwright;
-- Criação de webinar interno para compartilhamento de conhecimento;
-- Consolidação de práticas de qualidade, rastreabilidade, governança e melhoria contínua.
+- Planejamento e realização de webinar interno para compartilhamento de conhecimento;
+- Consolidação de práticas de qualidade, rastreabilidade, governança e melhoria contínua;
+- Estruturação de framework Kanban operacional, com simplificação do fluxo, limites de WIP, políticas explícitas, governança de urgências e métricas;
+- Configuração de agente de IA especializado em Qualidade de Software, com definição de objetivo, escopo, comportamento, método de análise, base de conhecimento e critérios de confiabilidade.
 
 ---
 
 ## Principais entregas
 
-- Estruturação inicial da área de QA a partir de um diagnóstico AS-IS;
-- Implantação de processos de qualidade em produtos Web e Desktop;
-- Criação de fluxo de QA dentro das Sprints e cerimônias ágeis;
+- Estruturação inicial da área de QA a partir de diagnóstico AS-IS;
+- Implantação e evolução de processos de qualidade em produtos Web e Desktop;
+- Estruturação do fluxo de QA nas Sprints e cerimônias ágeis;
 - Evolução da documentação de testes para o Azure DevOps;
-- Implementação de evidências em vídeo e rastreabilidade de validações;
-- Criação de Definition of Done com critérios de qualidade;
-- Criação de Matriz RACI para QA e desenvolvimento;
-- Estudos de aderência ao TMMi e início da estruturação do Nível 2;
-- Criação de política, estratégia e planejamento de testes;
-- Participação em POC para escolha do Playwright como ferramenta de automação;
-- Criação de onboarding para novos colaboradores de QA;
-- Criação de checklist de boas práticas de qualidade;
+- Implementação de evidências em vídeo e rastreabilidade das validações;
+- Definição de critérios de qualidade para a Definition of Done;
+- Criação de Matriz RACI para QA e Desenvolvimento;
+- Estudos de aderência ao TMMi e início da estruturação de práticas relacionadas ao Nível 2;
+- Elaboração de política, estratégia e planejamento de testes;
+- Participação em POC para avaliação e escolha do Playwright como ferramenta de automação;
+- Estruturação de onboarding e capacitação de profissionais de QA;
+- Desenvolvimento de checklist de boas práticas de qualidade;
 - Disseminação da cultura de qualidade para o time de TI;
 - Participação em processos seletivos técnicos e formação do time de QA;
-- Criação de webinar interno para compartilhamento de conhecimento.
+- Planejamento e realização de webinar interno para compartilhamento de conhecimento;
+- Estruturação de framework Kanban operacional para gestão de fluxo, limites de WIP, demandas urgentes e métricas de previsibilidade e qualidade;
+- Configuração do Prisma QA como evidência prática de agente de IA especializado no apoio à análise crítica de processos, regras de negócio, critérios de aceite, planejamento de testes, riscos e melhoria contínua.
 
 ---
 
@@ -116,11 +139,13 @@ A proposta é demonstrar não apenas as entregas realizadas, mas também a evolu
 
 Minha trajetória em Qualidade de Software foi construída em um cenário de transformação.
 
-Iniciei em uma empresa que ainda não possuía um time formal de QA estruturado. Os testes eram realizados principalmente por profissionais de produto, sem um processo padronizado de planejamento, documentação, evidência, métricas ou rastreabilidade.
+Iniciei em uma empresa que ainda não possuía um time formal de QA estruturado. Os testes eram realizados principalmente por profissionais de Produto, sem um processo padronizado de planejamento, documentação, evidências, métricas ou rastreabilidade.
 
-A partir desse contexto, participei da construção gradual de processos, práticas, cerimônias, documentação, métricas, cultura de qualidade e governança de QA.
+A partir desse contexto, participei da construção e da evolução gradual de processos, práticas, cerimônias, documentação, métricas, governança e cultura de qualidade.
 
-Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qualidade de software por meio de processos mais claros, rastreáveis, colaborativos e orientados à melhoria contínua.
+Ao longo dessa trajetória, minha atuação avançou da estruturação inicial da área para a coordenação de pessoas, evolução da maturidade de QA, melhoria do fluxo de trabalho, fortalecimento da rastreabilidade e adoção de novas formas de apoio à análise e à tomada de decisão.
+
+Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da Qualidade de Software por meio de processos mais claros, rastreáveis, colaborativos e orientados por riscos, dados e melhoria contínua. Também participo da estruturação de práticas Kanban e da aplicação de inteligência artificial como apoio à análise crítica de processos, regras de negócio, critérios de aceite, planejamento de testes e decisões de qualidade.
 
 ---
 
@@ -141,29 +166,37 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qual
 - Criação de questionário para avaliação de candidatos;
 - Criação de checklist de boas práticas de qualidade;
 - Disseminação da cultura de qualidade para o time de TI;
-- Criação de webinar interno para compartilhamento de conhecimento.
+- Criação de webinar interno para compartilhamento de conhecimento;
+- Estruturação de framework Kanban operacional, com definição de fluxo, limites de WIP, políticas explícitas, governança de demandas urgentes e métricas;
+- Configuração de agente de IA especializado em Qualidade de Software, com definição de escopo, comportamento, método de análise, base de conhecimento e critérios de confiabilidade.
 
 ---
 
-## Competências demonstradas
+## Competências e temas abordados
 
-- Liderança em QA;
-- Melhoria contínua;
-- Gestão de processos;
-- Qualidade de software;
-- Testes manuais, exploratórios e funcionais;
-- Planejamento de testes;
-- Gestão de bugs e inconsistências;
-- Métricas de qualidade;
+- liderança e coordenação de QA;
+- análise crítica de processos;
+- estruturação de práticas de qualidade;
+- governança e rastreabilidade;
+- gestão de riscos;
+- planejamento e estratégia de testes;
+- critérios de aceite;
+- documentação e evidências;
+- Definition of Done;
+- Matriz RACI;
+- TMMi;
 - Azure DevOps;
-- Scrum e Kanban;
-- Documentação técnica;
-- Rastreabilidade;
-- Cultura de qualidade;
-- Governança;
-- Capacitação e onboarding;
-- Apoio em seleção técnica;
-- Comunicação com Produto, Desenvolvimento e Gestão.
+- automação com Playwright e C#;
+- onboarding e capacitação;
+- cultura de qualidade;
+- Kanban e gestão de fluxo;
+- limites de trabalho em progresso;
+- métricas de fluxo e qualidade;
+- governança de demandas urgentes;
+- configuração de agentes de IA;
+- IA aplicada à Qualidade de Software;
+- curadoria de bases de conhecimento;
+- melhoria contínua.
 
 ---
 
@@ -181,6 +214,8 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da qual
 | [Case 08](08-onboarding-capacitacao-qa) | Onboarding e Capacitação de QA | Integração de novos colaboradores e padronização do conhecimento |
 | [Case 09](09-cultura-qualidade-conhecimento) | Cultura de Qualidade e Conhecimento | Disseminação de boas práticas, checklist e webinar interno |
 | [Case 10](10-lideranca-processo-seletivo-qa) | Liderança e Processo Seletivo de QA | Avaliação técnica, entrevistas, questionário e formação de time |
+| [Case 11](11-framework-kanban-operacional) | Estruturação de Framework Kanban Operacional | Simplificação do fluxo, limites de WIP, governança de urgências e métricas de previsibilidade e qualidade |
+| [Case 12](12-configuracao-agente-ia-qa) | Configuração de Agente de IA Especializado em Qualidade de Software | Estruturação de comportamento, método de análise, base de conhecimento e aplicação prática por meio do Prisma QA |
 
 ---
 
