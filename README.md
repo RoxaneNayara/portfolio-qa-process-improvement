@@ -26,8 +26,6 @@ Transformei um cenário sem QA estruturado em uma área com processos, rastreabi
 
 ---
 
----
-
 ## Como este portfólio está organizado
 
 Este portfólio foi estruturado em formato de cases profissionais. Cada case apresenta, conforme a natureza e o estágio da iniciativa:
