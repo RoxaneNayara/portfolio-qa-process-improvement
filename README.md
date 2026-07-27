@@ -26,8 +26,6 @@ Os materiais apresentam diagnósticos, práticas implementadas ou em evolução,
 
 ## Em uma frase
 
-## Em uma frase
-
 Transformei um cenário sem QA estruturado em uma área orientada por processos, rastreabilidade, governança, liderança, gestão de fluxo, cultura de qualidade e melhoria contínua, incorporando também inteligência artificial como apoio à análise e à tomada de decisão.
 
 ---
