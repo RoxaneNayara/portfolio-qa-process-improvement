@@ -7,8 +7,6 @@
 </p>
 
 
-# Portfólio de QA | Processos, Qualidade e Liderança
-
 ![QA Leadership](https://img.shields.io/badge/QA%20Leadership-Process%20Improvement-blue)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Rastreabilidade-blue)
 ![Scrum](https://img.shields.io/badge/Scrum-Agile%20Process-green)
