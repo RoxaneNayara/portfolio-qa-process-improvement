@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="./docs/images/banner-portfolio-qa.jpg"
+    alt="Roxane Nayara — Portfólio de QA e Melhoria de Processos"
+    width="100%"
+  />
+</p>
+
+
 # Portfólio de QA | Processos, Qualidade e Liderança
 
 ![QA Leadership](https://img.shields.io/badge/QA%20Leadership-Process%20Improvement-blue)
@@ -7,22 +16,21 @@
 ![Playwright](https://img.shields.io/badge/Playwright-Automação%20em%20Implantação-brightgreen)
 ![Quality Culture](https://img.shields.io/badge/Cultura%20de%20Qualidade-Shift--Left-orange)
 
-Olá! Sou Roxane Nayara, Coordenadora de QA, com experiência na estruturação de processos de qualidade de software, implantação de práticas de QA, evolução de maturidade de testes, governança, documentação, métricas, Azure DevOps, cultura de qualidade e liderança de time.
+## Sobre o portfólio
 
-Este repositório reúne cases relacionados à minha atuação em Qualidade de Software, com foco em estruturação de processos, governança, rastreabilidade,
-maturidade, automação, liderança, gestão de fluxo e aplicação de inteligência artificial em QA.
+Este repositório reúne cases profissionais relacionados à minha atuação em Qualidade de Software, com foco em processos, governança, rastreabilidade, maturidade de testes, liderança, gestão de fluxo e inteligência artificial aplicada a QA.
 
-Os cases apresentam diagnósticos, propostas, práticas implementadas ou em evolução, aprendizados e evidências produzidas ao longo da minha trajetória
-profissional.
+Os materiais apresentam diagnósticos, práticas implementadas ou em evolução, aprendizados e evidências adaptadas para preservar informações confidenciais.
 
-> Informações confidenciais, dados internos, nomes de clientes e conteúdos
-> proprietários foram omitidos ou adaptados.
+> Informações internas, nomes de clientes, sistemas e conteúdos proprietários foram omitidos, anonimizados ou recriados.
 
 ---
 
 ## Em uma frase
 
-Transformei um cenário sem QA estruturado em uma área com processos, rastreabilidade, governança, cultura de qualidade e liderança de time.
+## Em uma frase
+
+Transformei um cenário sem QA estruturado em uma área orientada por processos, rastreabilidade, governança, liderança, gestão de fluxo, cultura de qualidade e melhoria contínua, incorporando também inteligência artificial como apoio à análise e à tomada de decisão.
 
 ---
 
@@ -216,6 +224,14 @@ Atualmente, atuo como Coordenadora de QA, contribuindo para a evolução da Qual
 | [Case 12](12-configuracao-agente-ia-qa) | Configuração de Agente de IA Especializado em Qualidade de Software | Estruturação de comportamento, método de análise, base de conhecimento e aplicação prática por meio do Prisma QA |
 
 ---
+
+## Projetos relacionados
+
+### Playwright Automation Lab
+
+Projeto autoral de estudo e prática em automação Web com Playwright e TypeScript, reunindo testes funcionais, acessibilidade automatizada, execução cross-browser, relatórios e integração contínua.
+
+[Conhecer o Playwright Automation Lab](https://github.com/RoxaneNayara/playwright-automation-lab)
 
 ## Meu posicionamento profissional
 
