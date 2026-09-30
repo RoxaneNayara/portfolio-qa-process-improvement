@@ -61,7 +61,7 @@ De forma simplificada, o processo seguia a lógica:
 
 <p align="center">
   <img
-    src="./docs/images/gestao-riscos-fluxo.png"
+    src="./assets/gestao-riscos-fluxo.png"
     alt="Representação anonimizada do fluxo de gestão de riscos"
     width="90%"
   />
@@ -99,7 +99,7 @@ O modelo abaixo representa exemplos da relação entre risco identificado e poss
 
 <p align="center">
   <img
-    src="./docs/images/gestao-riscos-resposta-testes.png"
+    src="./assets/gestao-riscos-resposta-testes.png"
     alt="Representação anonimizada da relação entre riscos e respostas de teste"
     width="90%"
   />
