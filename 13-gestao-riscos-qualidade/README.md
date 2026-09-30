@@ -6,6 +6,8 @@
   />
 </p>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Gestão_de_Riscos-Quality-purple" />
   <img src="https://img.shields.io/badge/Risk--Based_Testing-Strategy-blue" />
@@ -14,19 +16,6 @@
   <img src="https://img.shields.io/badge/Colaboração-Multidisciplinar-4682B4" />
 </p>
 
----
-
-## Visão geral
-
-Este case apresenta uma iniciativa de gestão de riscos conduzida no contexto de Qualidade de Software, com participação multidisciplinar de QA, Produto, Desenvolvimento, Arquitetura e Privacidade.
-
-A iniciativa teve como objetivo ampliar a análise de riscos relacionados às entregas e incorporar essa visão ao planejamento e à estratégia de testes.
-
-O fórum esteve ativo entre **18 de março de 2025 e dezembro de 2025**.
-
-> **Nota sobre confidencialidade:** nomes de sistemas, produtos, clientes e informações internas foram omitidos ou generalizados.
-
-# Case 13 — Gestão de Riscos Aplicada à Qualidade de Software
 
 ## Visão geral
 
