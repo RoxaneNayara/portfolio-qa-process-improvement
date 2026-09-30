@@ -1,3 +1,21 @@
+<p align="center">
+  <img
+    src="./assets/gestão_de_riscos_em_software.png"
+    alt="Case 13 — Gestão de Riscos Aplicada à Qualidade de Software"
+    width="100%"
+  />
+</p>
+
+## Visão geral
+
+Este case apresenta uma iniciativa de gestão de riscos conduzida no contexto de Qualidade de Software, com participação multidisciplinar de QA, Produto, Desenvolvimento, Arquitetura e Privacidade.
+
+A iniciativa teve como objetivo ampliar a análise de riscos relacionados às entregas e incorporar essa visão ao planejamento e à estratégia de testes.
+
+O fórum esteve ativo entre **18 de março de 2025 e dezembro de 2025**.
+
+> **Nota sobre confidencialidade:** nomes de sistemas, produtos, clientes e informações internas foram omitidos ou generalizados.
+
 # Case 13 — Gestão de Riscos Aplicada à Qualidade de Software
 
 ## Visão geral
