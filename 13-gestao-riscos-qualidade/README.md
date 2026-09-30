@@ -6,6 +6,16 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gestão_de_Riscos-Quality-purple" />
+  <img src="https://img.shields.io/badge/Risk--Based_Testing-Strategy-blue" />
+  <img src="https://img.shields.io/badge/Test_Strategy-QA-8A2BE2" />
+  <img src="https://img.shields.io/badge/Governança-Qualidade-6A5ACD" />
+  <img src="https://img.shields.io/badge/Colaboração-Multidisciplinar-4682B4" />
+</p>
+
+---
+
 ## Visão geral
 
 Este case apresenta uma iniciativa de gestão de riscos conduzida no contexto de Qualidade de Software, com participação multidisciplinar de QA, Produto, Desenvolvimento, Arquitetura e Privacidade.
