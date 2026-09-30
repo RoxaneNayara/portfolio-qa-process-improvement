@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/gestão_de_riscos_em_software.png"
+    src="./assets/gestao_de_riscos_em_software.png"
     alt="Case 13 — Gestão de Riscos Aplicada à Qualidade de Software"
     width="100%"
   />
