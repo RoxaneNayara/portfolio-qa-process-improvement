@@ -1,4 +1,20 @@
-# Case 14 — KPIs e Governança de Qualidade com Azure DevOps
+<p align="center">
+  <img
+    src="./assets/kpis_e_governanca_no_azure_devops.png"
+    alt="Case 14 — KPIs e Governança de Qualidade com Azure DevOps"
+    width="100%"
+  />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KPIs-Qualidade-purple" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-Métricas-blue" />
+  <img src="https://img.shields.io/badge/Governança-Qualidade-6A5ACD" />
+  <img src="https://img.shields.io/badge/Rastreabilidade-QA-4682B4" />
+  <img src="https://img.shields.io/badge/QA_Intelligence-IA_aplicada-8A2BE2" />
+</p>
+
 
 ## Visão geral
 
