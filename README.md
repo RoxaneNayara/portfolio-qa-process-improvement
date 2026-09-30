@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./docs/images/banner-portfolio-qa.jpg"
+    src="./docs/images/banner-portfolio-qa.png"
     alt="Roxane Nayara — Portfólio de QA e Melhoria de Processos"
     width="100%"
   />
